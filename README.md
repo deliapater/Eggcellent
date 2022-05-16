@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and styled using Tailwind CSS. It represents a simple, minimalistic and responive website.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and styled using Tailwind CSS. It represents a simple, minimalistic and responsive website.
 
 ## Screen Grabs
 ![Homepage](./public/images/homepage-1.png)
